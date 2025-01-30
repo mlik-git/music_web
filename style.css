@@ -1,0 +1,38 @@
+*{
+    padding: auto;
+    margin: auto;
+}
+
+.title{
+    text-align: left;
+    font-size: 50px;
+    font-family: songti;
+    padding-left: 80px;
+    padding-top: 20px;
+    color: white;
+}
+
+.main{
+    padding-left: 50px;
+    padding-top: 50px;
+}
+
+audio{
+    margin-top: 30px;
+    width: 400px;
+    height: 30px;
+   
+}
+
+p{
+    width: 90%;
+    color: white;
+}
+
+body{
+    background-color: rgba(104, 102, 102, 0.432);
+}
+
+.text{
+    padding-left: 60px;
+}
